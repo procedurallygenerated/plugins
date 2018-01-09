@@ -29,6 +29,12 @@
 * Simplified and upgraded Android project template to Android SDK 27.
 * Updated package description.
 
+## 0.3.0
+
+* Add GeoPoint class
+* Allow for reading and writing DocumentReference, DateTime, and GeoPoint
+  values to and from Documents.
+
 ## 0.2.2
 
 * Add `get` to DocumentReference.
